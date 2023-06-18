@@ -1,6 +1,6 @@
 # Deep-Learning-based-Wireless-Communications
 Exploring semantically optimized end to end learning solutions for Wireless Communications
-Reproducible code for the paper: "Semantically Optimized End-to-End Learning for Positional Telemetry in Vehicular Scenarios"
+Reproducible code for the paper: "Semantically Optimized End-to-End Learning for Positional Telemetry in Vehicular Scenarios" accepted at The 19th International Conference on Wireless and Mobile Computing, Networking and Communications 2023
 
 
 Cite us as:
